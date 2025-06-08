@@ -3,5 +3,5 @@ In this repository I completed the Codecademy's project "Build a Book Recommende
 
 The key improvements were:
 
-- Analize if the data is normal distributed
+- Analyze if the data is normal distributed
 - Apply a method the improve the RMSE accuracy of our model
